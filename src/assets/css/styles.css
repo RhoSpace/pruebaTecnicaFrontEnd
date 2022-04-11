@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  body{
+      background-color: #828282;
+  }
+
+  .m-auto {
+    margin: 0 auto;
+  }
+
+  .container {
+    max-width: 70rem;
+    background-color: #cfcfcf;
+    padding: 2rem 2rem 2rem 2rem;
+  }
+
+  section{
+      max-width: 70rem;
+      background-color: black;
+      color: white;
+      padding: 2rem 2rem 2rem 2rem;
+  }
+
+  div{
+      margin-top: 1rem;
+  }
+
+  .card{
+      margin: 0.5rem 0 0 0;
+      background-color: #ffffff;
+      padding: 1rem 1rem 1rem 1rem;
+  }
+
+  p{
+      margin-top: 0.5rem
+  }
