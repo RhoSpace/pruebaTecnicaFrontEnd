@@ -3,12 +3,6 @@ import { ApiConexion } from './components/ApiConexion';
 
 function App() {
 
-    const [reglamento, setReglamento] = useState(false);
-
-    function changeButton(changeButton) {
-        setReglamento(changeButton);
-    }
-
     return (
         <Fragment>
             <section className="m-auto">
