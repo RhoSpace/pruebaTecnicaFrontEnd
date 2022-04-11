@@ -6,7 +6,7 @@ function App() {
     return (
         <Fragment>
             <section className="m-auto">
-                <div className="icons icon-list">
+                <div>
                     <h4>Rodrigo Antonio Rivera Beltrán</h4>
                     <a href="https://rhospace.github.io/">Mi Github</a>
                 </div>

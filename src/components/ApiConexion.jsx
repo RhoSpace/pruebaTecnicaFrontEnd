@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 
 export function ApiConexion() {
 
-    //agregar climas
     const [data, setData] = useState();
     const [busqueda, setBusqueda] = useState();
 
